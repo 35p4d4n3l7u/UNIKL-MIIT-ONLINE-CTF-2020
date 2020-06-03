@@ -2,8 +2,8 @@
 
 #### File [xor not hard.txt](xor_not_hard.txt)
 
-#### Description: Could you decipher the message?
----  
+#### Description : Could you decipher the message? 
+  ---
 #### _Write-up_
 In this challenge, I was given xor_not_hard.txt which is a text file. This file contains many ciphers as shown below.
 
