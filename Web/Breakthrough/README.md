@@ -1,7 +1,7 @@
 #### Points: 60
 #### Description: echo -ne '<?={${~\xa0\xb8\xba\xab}[\xa0]};' > shell.php
 http://103.55.10.195:1337/shell.php 
-
+---
 #### _Write-up_
 
 In this challenge I was given shell.php file. The information inside the file is as shown below.
