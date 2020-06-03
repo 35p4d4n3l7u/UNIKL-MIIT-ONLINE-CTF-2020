@@ -1,5 +1,7 @@
 #### Points: 20
 
+#### File : [easxnalysis.zip](easxnalysis.zip)
+
 #### Description: Upon further investigation on compromised machine, suspicious portion of network traffic file was found with an encrypted file. Find out whats in the file....
 
 #### _Write-up_
