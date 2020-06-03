@@ -1,7 +1,7 @@
-#### Points: 20
+#### Points: 20  
 
 #### Description: Could you decipher the message?
-
+---  
 #### _Write-up_
 In this challenge, I was given xor_not_hard.txt which is a text file. This file contains many ciphers as shown below.
 
