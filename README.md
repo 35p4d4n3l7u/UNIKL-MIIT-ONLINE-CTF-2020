@@ -46,4 +46,7 @@ Scoreboard will be Freeze at : 10:00 PM
 # Final Scoreboard
 ![](Scoreboard.PNG)
 
+# Final Result
+![](Final%20Result.png)
+
 This Writeup is brought to you by 35p4d4
