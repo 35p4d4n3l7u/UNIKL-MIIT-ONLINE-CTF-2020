@@ -1,7 +1,6 @@
 #### Points: 20  
 
-#### File
-[xor not hard.txt](xor_not_hard.txt)
+#### File [xor not hard.txt](xor_not_hard.txt)
 
 #### Description: Could you decipher the message?
 ---  
