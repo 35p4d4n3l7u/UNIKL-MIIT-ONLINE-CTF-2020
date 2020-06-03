@@ -2,6 +2,19 @@
 
 ## CONGRATULATION TO TOP 10 FINALIST
 
+#### Available Writeup
+- [Superman 2020](/Mobile/Superman%202020)
+- [Flash 2020](/Mobile/Flash%202020)
+- [Breakthrough](/Web/Breakthrough)
+- [JS](/Web/JS)
+- [easxnalysis](/Forensic/easxnalysis)
+- [Can you hear me?](/Forensic/Can%20you%20hear%20me%3F)
+- [XOR not Hard](/Cryptography/XOR%20not%20Hard%3F)
+
+#### Not Available Writeup 
+- [debug1](/Debug)
+---
+
 Capture the Flag Hacking Competition - UniKL MIIT 2020 organized by Computer System Security Club (CSSC) to create new exposure for students of MIIT regarding information security.
 
 
